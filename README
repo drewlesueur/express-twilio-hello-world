@@ -1,0 +1,6 @@
+== I had to first do this from the command line
+
+npm install express
+npm install body-parser
+
+
